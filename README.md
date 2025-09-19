@@ -1,7 +1,6 @@
 # Ghost_Worm_GPT — Desktop AI Assistant
 
-GhostGPT is a **Tkinter-based desktop application** that provides an interactive AI assistant with a hacker-style interface.  
-It features a lock-screen authentication system, a dark-themed terminal UI, and tools to extract and save AI-generated code snippets.
+**GhostGPT is a **Tkinter-based desktop application** that provides an interactive AI assistant with a hacker-style interface. It features a lock-screen authentication system, a dark-themed terminal UI, and tools to extract and save AI-generated code snippets.**
 
 ---
 
