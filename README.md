@@ -23,7 +23,7 @@ It features a lock-screen authentication system, a dark-themed terminal UI, and 
 
 <img width="1001" height="778" alt="image" src="https://github.com/user-attachments/assets/bc6dfa98-b4a7-466b-84d5-ae25c53e8579" />
 
-[Click To Download here](https://github.com/cyber-ghost-hacking/Ghost_Worm_GPT/releases/download/%23GhostGPT/GhostGpt.exe)
+[Click Here For Download](https://github.com/cyber-ghost-hacking/Ghost_Worm_GPT/releases/download/%23GhostGPT/GhostGpt.exe)
 
 ## 🌐 Connect With Us
 
