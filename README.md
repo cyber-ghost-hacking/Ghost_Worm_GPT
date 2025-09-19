@@ -17,6 +17,7 @@ It features a lock-screen authentication system, a dark-themed terminal UI, and 
 ### 🔐 Login Screen
 
 <img width="1001" height="778" alt="image" src="https://github.com/user-attachments/assets/bc6dfa98-b4a7-466b-84d5-ae25c53e8579" />
+
 ## 🖥️ Screenshots
 
 <img width="997" height="784" alt="image" src="https://github.com/user-attachments/assets/fc43f482-87dc-48ae-bc00-f108476b8fea" />
